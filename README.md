@@ -1,7 +1,7 @@
 ## Pulse ring animation react component
 > A pulse ring animation react component made with SVG
 
-[![[react-pulse-ring-animation-demo](https://raw.github.com/joegesualdo/react-pulse-ring-animation/master/pulse-ring-demo.gif)
+![react-pulse-ring-animation-demo](https://raw.github.com/joegesualdo/react-pulse-ring-animation/master/pulse-ring-demo.gif)
 
 ## Install
 ```
