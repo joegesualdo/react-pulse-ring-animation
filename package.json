@@ -1,0 +1,14 @@
+{
+  "name": "react-pulse-ring-animation",
+  "version": "0.0.1",
+  "description": "Pulse ring animation react component made with SVG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Gesualdo",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
