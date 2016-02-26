@@ -1,6 +1,6 @@
 {
   "name": "react-pulse-ring-animation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pulse ring animation react component made with SVG",
   "main": "index.js",
   "scripts": {
